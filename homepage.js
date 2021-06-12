@@ -10,5 +10,7 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+
 </body>
 </html> 
